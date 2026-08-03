@@ -1,0 +1,17 @@
+ECHO//WAR — PROTOTIP JUGABLE
+
+1. Fes doble clic a INICIAR-JOC.bat
+2. Espera que s'obri el navegador.
+3. Prem “INICIAR INCURSIÓ” i després “DESPLEGAR”.
+
+CONTROLS
+WASD o fletxes: moure's | Ratolí: mirar | Clic: disparar
+Shift: córrer | R: recarregar | E: pols temporal
+1: ballesta | 2: arc ràpid | 3: canó de bloc
+
+OBJECTIU
+Elimina almenys 5 bots i arriba al portal morat del nucli.
+Si mors o s'acaba el temps, la teva partida queda gravada. Al següent
+intent apareixerà un eco cyan que repetirà els teus moviments i dispars.
+
+Per tancar el joc, tanca el navegador i la finestra negra.
