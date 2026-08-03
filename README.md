@@ -13,3 +13,7 @@ Prototip jugable d'un FPS voxel amb bucles temporals. Cada derrota grava la ruta
 ## Executar
 
 En Windows, obre `INICIAR-JOC.bat`. També es pot iniciar amb `npm install` i `npm run dev`.
+
+## Jugar en línia
+
+Obre [ECHO//WAR Voxel](https://martinakus3000.github.io/ECHO-WAR-VOXEL-V1/) des de qualsevol ordinador amb un navegador modern.
